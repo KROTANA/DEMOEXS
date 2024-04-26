@@ -1,0 +1,189 @@
+.sites{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+.hea{
+    border: 1px solid black;
+    height: 20%;
+    width: 100%;
+    padding: 2%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    }
+.logo{
+    background-image: url('logo.png');
+    height: 50px;
+    width: 50px;
+    
+   
+}
+.men1{
+   
+    color: white;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    justify-content: space-around;
+    width: 40%;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 20%;
+   
+}
+.bt{
+    background-color: orangered;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.name{
+    color: white;
+    font-size: 25px;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mai{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 60%;
+   
+}
+.verticalpanel{
+    width: 25%;
+    height: 100%;
+    
+}
+.main{
+    width: 75%;
+    height: 100%;
+    
+}
+.cart1{
+    background-image: url('6899345090_783bb749f1_b.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+
+}
+.texted1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    height: 300px;
+    font-size: 15px;
+}
+.cart2{
+    background-image: url('fotoapparat_ruka_chb_197910_1920x1080.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+
+}
+.texted2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    height: 300px;
+    font-size: 15px;
+}
+.main{
+    background-image: url('black-and-white-camera-photography-photographer-wheel-retro-old-photo-equipment-canon-black-monochrome-vintage-camera-old-camera-reflex-camera-digital-camera-photograph-camera-lens-monochrome-photography-digital- (1).jpg');
+    background-size: cover;
+    width: 100%;
+    height: 1200px;
+    display: flex;
+    
+    color: white;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.pagin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+
+    
+}
+.pag{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.hefs{
+   
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 20%;
+       
+    
+}
+.telegramm{
+    background-image: url('icons8-телеграм-50.png');
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+}
+.vk{
+    background-image: url('icons8-vk-50.png');
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+}
+.github{
+    background-image: url('icons8-github-50.png');
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+}
